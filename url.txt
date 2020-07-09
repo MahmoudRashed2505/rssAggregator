@@ -1,0 +1,13 @@
+https://www.theverge.com/rss/index.xml
+https://www.techmeme.com/feed.xml
+https://techcrunch.com/feed/
+https://www.technologyreview.com/feed/
+https://readwrite.com/feed/
+https://www.vox.com/rss/index.xml
+https://www.wired.com/feed/rss
+https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml
+https://www.cnet.com/rss/all/
+https://www.cnet.com/rss/gaming/
+https://www.cnet.com/rss/android-update/
+https://markets.businessinsider.com/rss/news
